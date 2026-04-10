@@ -1,5 +1,0 @@
-Flask==2.3.3
-mysql-connector-python==8.0.33
-eciespy==0.3.11
-pyAesCrypt==6.0.0
-gunicorn==21.2.0
