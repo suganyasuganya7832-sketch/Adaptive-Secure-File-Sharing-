@@ -1,2 +1,4 @@
 flask
 gunicorn
+eciespy
+mysql-connector-python
